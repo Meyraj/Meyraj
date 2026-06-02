@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Meyraj%20Meyyappan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20Django%20%7C%20AI%20%26%20ML%20Engineering&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Meyraj%20Meyyappan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20Django%20%7C%20AI%20%2526%20ML%20Engineering&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -106,10 +106,10 @@ microservices with ZERO downtime 🚀"
 <div align="center">
 
 <a href="https://github.com/Meyraj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meyraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Meyraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400"/>
 </a>
 <a href="https://github.com/Meyraj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meyraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meyraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400"/>
 </a>
 
 </div>
@@ -140,7 +140,7 @@ microservices with ZERO downtime 🚀"
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Meyraj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Meyraj)
+[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Meyraj&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Meyraj)
 
 </div>
 
